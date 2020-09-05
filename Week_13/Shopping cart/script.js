@@ -1,12 +1,12 @@
 
-function addBananas() {
-    addItemToCart("Bananas", 1.60)
-}
+// function addBananas() {
+//     addItemToCart("Bananas", 1.60)
+// }
 
 
-function addApples() {
-    addItemToCart("Apple", 2.30)
-}
+// function addApples() {
+//     addItemToCart("Apple", 2.30)
+// }
 
 function addItemToCart(Item,Price){
 let cart = document.getElementById("ShoppingCart")
